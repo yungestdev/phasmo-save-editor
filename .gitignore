@@ -1,0 +1,6 @@
+**/*.txt
+**/*.py
+**/*.spec
+**/build/*
+**/dist/*
+**/compiler.bat
