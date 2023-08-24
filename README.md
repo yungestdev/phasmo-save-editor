@@ -14,7 +14,7 @@ Welcome to the Phasmophobia Save File Editor repository! This tool allows you to
 
 ## Getting Started
 
-1. [Download the latest release](https://github.com/yungestdev/phasmo-save-editor/releases).
+1. [Download the latest release](https://github.com/yungestdev/phasmo-save-editor/releases/latest).
 2. Extract the downloaded ZIP file to a location of your choice.
 3. Run the "PhasmoSaveEditor.exe" executable.
 4. Open your Phasmophobia save file using the tool.
@@ -23,7 +23,7 @@ Welcome to the Phasmophobia Save File Editor repository! This tool allows you to
 
 ## Compatibility
 
-- This tool is compatible with Windows operating systems.
+- This tool is compatible (tested by us) with Windows operating system but may be able to run on MacOS and Linux in the future.
 - The tool supports save files from Phasmophobia version 9.0.0 - 9.0.1 - 9.0.2 - * as now.
 
 ## Contributing

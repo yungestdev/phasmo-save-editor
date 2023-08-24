@@ -1,0 +1,3 @@
+v9.0.0.2 = https://www.virustotal.com/gui/file/f8205d1d2a010c8bb63080fcad55b3a8b90906ada2c8079a9b2fa1e069815032/detection
+    - Get's 5 results because of the pyinstaller compiling and the decryption and encryption process (False positives :/ )
+    - Run it on a VM if doubting our word
