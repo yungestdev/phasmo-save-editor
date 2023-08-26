@@ -24,12 +24,15 @@ Welcome to the Phasmophobia Save File Editor repository! This tool allows you to
 ## Compatibility
 
 - This tool is compatible (tested by us) with Windows operating system but may be able to run on MacOS and Linux in the future.
-- The tool supports save files from Phasmophobia version 9.0.0 - 9.0.1 - 9.0.2 - * as now.
+- The tool supports save files from Phasmophobia version 0.9.0.0 - 0.9.0.1 - 0.9.0.2 - 0.9.0.3 - 0.9.0.4 - 0.9.0.5 - 0.9.0.6 - 0.9.0.7 - * as now.
 
 ## Contributing
 
 Contributions are welcome! If you find a bug, have a feature request, or want to improve the tool, please open an issue
 
+## Future functionalities
+
+  - GUI is coming, with presets and customizability
 ## Disclaimer
 
 This tool is not officially affiliated with or endorsed by Kinetic Games. Use it responsibly and respect the game's terms of use.
